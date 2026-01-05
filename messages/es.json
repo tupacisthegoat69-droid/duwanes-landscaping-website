@@ -1,0 +1,83 @@
+{
+  "Navbar": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "about": "Nosotros",
+    "gallery": "Galería",
+    "contact": "Contacto",
+    "callNow": "Llamar Ahora"
+  },
+  "Home": {
+    "heroTitle": "Transforme Su Espacio Exterior en un Paraíso",
+    "heroSubtitle": "Servicios profesionales de paisajismo en Springfield. Diseñamos, construimos y mantenemos hermosos jardines para hogares y negocios.",
+    "callQuote": "Llame para una Cotización",
+    "freeEstimate": "Obtenga un Presupuesto Gratis",
+    "servicesTitle": "Nuestros Servicios",
+    "servicesSubtitle": "Ofrecemos una gama completa de servicios de paisajismo para satisfacer todas sus necesidades.",
+    "viewAllServices": "Ver Todos los Servicios",
+    "whyChooseTitle": "¿Por qué elegir Duwane's Landscaping?",
+    "whyChooseSubtitle": "Con más de 15 años de experiencia, hemos construido una reputación de excelencia y confiabilidad. Nuestro equipo de profesionales certificados está dedicado a transformar su espacio exterior en algo especial.",
+    "licensed": "Profesionales Licenciados y Asegurados",
+    "quality": "Mano de Obra de Calidad Garantizada",
+    "freeConsult": "Estimaciones y Consultas Gratuitas",
+    "learnMore": "Conozca Más Sobre Nosotros",
+    "ctaTitle": "¿Listo para Transformar su Jardín?",
+    "ctaSubtitle": "Contáctenos hoy para una consulta y cotización gratuita. Demos vida a su visión.",
+    "requestQuote": "Solicitar Cotización",
+    "servicesList": {
+      "design": {
+        "title": "Diseño de Paisajismo",
+        "description": "Diseños de jardines personalizados adaptados a su propiedad y estilo de vida."
+      },
+      "lawnCare": {
+        "title": "Cuidado del Césped",
+        "description": "Corte regular, fertilización y control de malezas para un césped saludable."
+      },
+      "hardscaping": {
+        "title": "Paisajismo Duro",
+        "description": "Patios, senderos y muros de contención para mejorar su vida al aire libre."
+      },
+      "irrigation": {
+        "title": "Riego",
+        "description": "Sistemas de riego eficientes para mantener sus plantas prósperas."
+      }
+    }
+  },
+  "Footer": {
+    "description": "Servicios profesionales de paisajismo para su hogar y negocio. Creando hermosos espacios exteriores desde 2010.",
+    "quickLinks": "Enlaces Rápidos",
+    "contactUs": "Contáctenos",
+    "rights": "Todos los derechos reservados."
+  },
+  "About": {
+    "title": "Sobre Nosotros",
+    "subtitle": "Dedicados a crear hermosos espacios al aire libre desde 2010.",
+    "storyTitle": "Nuestra Historia",
+    "storyP1": "Duwane's Landscaping and Lawn Service comenzó con una misión simple: proporcionar servicios de jardinería confiables y de alta calidad a nuestra comunidad local. A lo largo de los años, hemos pasado de ser un pequeño equipo de dos personas a una empresa de jardinería de servicio completo, pero nuestro compromiso con la calidad y la satisfacción del cliente sigue siendo el mismo.",
+    "storyP2": "Creemos que su espacio al aire libre debe ser una extensión de su hogar: un lugar para relajarse, entretenerse y disfrutar de la naturaleza. Ya sea que necesite un rediseño completo del jardín o simplemente un mantenimiento regular del césped, tratamos cada proyecto con el mismo nivel de cuidado y atención al detalle.",
+    "valuesTitle": "Nuestros Valores",
+    "values": {
+      "quality": "Calidad: Nunca tomamos atajos y utilizamos solo los mejores materiales.",
+      "reliability": "Confiabilidad: Llegamos a tiempo y terminamos el trabajo según lo prometido.",
+      "integrity": "Integridad: Somos honestos, transparentes y justos en todos nuestros tratos.",
+      "customerFocus": "Enfoque en el Cliente: Su satisfacción es nuestra máxima prioridad."
+    },
+    "testimonial": "Duwane's Landscaping transformó nuestro patio trasero en un oasis impresionante. El equipo fue profesional, cortés y los resultados superaron nuestras expectativas.",
+    "testimonialAuthor": "- Sarah Johnson, Springfield",
+    "ctaTitle": "Trabaje con Nosotros",
+    "ctaSubtitle": "Experimente la diferencia de trabajar con un equipo de jardinería profesional.",
+    "ctaButton": "Póngase en Contacto"
+  },
+  "Reviews": {
+    "title": "Lo Que Dicen Nuestros Clientes",
+    "subtitle": "Nos enorgullecemos de nuestro trabajo y a nuestros clientes les encantan los resultados.",
+    "googleRating": "5.0 Estrellas en Google",
+    "readMore": "Leer las 25 reseñas en Google",
+    "review1": "El equipo de Duwane hizo un trabajo increíble en nuestro jardín delantero. ¡Muy recomendable!",
+    "review1Author": "John D.",
+    "review2": "Profesional, puntual y gran atención al detalle. Mi césped nunca se ha visto mejor.",
+    "review2Author": "Sarah M.",
+    "review3": "Gran precio por la calidad del trabajo. Definitivamente los usaré de nuevo.",
+    "review3Author": "Mike R."
+  }
+}

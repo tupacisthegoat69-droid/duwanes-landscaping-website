@@ -1,0 +1,83 @@
+{
+  "Navbar": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "gallery": "Gallery",
+    "contact": "Contact",
+    "callNow": "Call Now"
+  },
+  "Home": {
+    "heroTitle": "Transform Your Outdoor Space Into a Paradise",
+    "heroSubtitle": "Professional landscaping services in Springfield. We design, build, and maintain beautiful gardens for homes and businesses.",
+    "callQuote": "Call Now for a Quote",
+    "freeEstimate": "Get a Free Estimate",
+    "servicesTitle": "Our Services",
+    "servicesSubtitle": "We offer a comprehensive range of landscaping services to meet all your needs.",
+    "viewAllServices": "View All Services",
+    "whyChooseTitle": "Why Choose Duwane's Landscaping?",
+    "whyChooseSubtitle": "With over 15 years of experience, we have built a reputation for excellence and reliability. Our team of certified professionals is dedicated to transforming your outdoor space into something special.",
+    "licensed": "Licensed and Insured Professionals",
+    "quality": "Quality Workmanship Guaranteed",
+    "freeConsult": "Free Estimates and Consultations",
+    "learnMore": "Learn More About Us",
+    "ctaTitle": "Ready to Transform Your Yard?",
+    "ctaSubtitle": "Contact us today for a free consultation and quote. Let's bring your vision to life.",
+    "requestQuote": "Request a Quote",
+    "servicesList": {
+      "design": {
+        "title": "Landscaping Design",
+        "description": "Custom garden designs tailored to your property and lifestyle."
+      },
+      "lawnCare": {
+        "title": "Lawn Care",
+        "description": "Regular mowing, fertilization, and weed control for a healthy lawn."
+      },
+      "hardscaping": {
+        "title": "Hardscaping",
+        "description": "Patios, walkways, and retaining walls to enhance your outdoor living."
+      },
+      "irrigation": {
+        "title": "Irrigation",
+        "description": "Efficient watering systems to keep your plants thriving."
+      }
+    }
+  },
+  "Footer": {
+    "description": "Professional landscaping services for your home and business. Creating beautiful outdoor spaces since 2010.",
+    "quickLinks": "Quick Links",
+    "contactUs": "Contact Us",
+    "rights": "All rights reserved."
+  },
+  "About": {
+    "title": "About Us",
+    "subtitle": "Dedicated to creating beautiful outdoor spaces since 2010.",
+    "storyTitle": "Our Story",
+    "storyP1": "Duwane's Landscaping and Lawn Service started with a simple mission: to provide high-quality, reliable landscaping services to our local community. Over the years, we have grown from a small two-person team to a full-service landscaping company, but our commitment to quality and customer satisfaction remains the same.",
+    "storyP2": "We believe that your outdoor space should be an extension of your home—a place to relax, entertain, and enjoy nature. Whether you need a complete garden redesign or just regular lawn maintenance, we treat every project with the same level of care and attention to detail.",
+    "valuesTitle": "Our Values",
+    "values": {
+      "quality": "Quality: We never cut corners and use only the best materials.",
+      "reliability": "Reliability: We show up on time and finish the job as promised.",
+      "integrity": "Integrity: We are honest, transparent, and fair in all our dealings.",
+      "customerFocus": "Customer Focus: Your satisfaction is our top priority."
+    },
+    "testimonial": "Duwane's Landscaping transformed our backyard into a stunning oasis. The team was professional, courteous, and the results exceeded our expectations.",
+    "testimonialAuthor": "- Sarah Johnson, Springfield",
+    "ctaTitle": "Work With Us",
+    "ctaSubtitle": "Experience the difference of working with a professional landscaping team.",
+    "ctaButton": "Get in Touch"
+  },
+  "Reviews": {
+    "title": "What Our Clients Say",
+    "subtitle": "We take pride in our work and our customers love the results.",
+    "googleRating": "5.0 Stars on Google",
+    "readMore": "Read all 25 reviews on Google",
+    "review1": "Duwane's team did an amazing job on our front yard. Highly recommended!",
+    "review1Author": "John D.",
+    "review2": "Professional, on time, and great attention to detail. My lawn has never looked better.",
+    "review2Author": "Sarah M.",
+    "review3": "Great price for the quality of work. Will definitely use them again.",
+    "review3Author": "Mike R."
+  }
+}

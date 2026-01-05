@@ -1,0 +1,67 @@
+# Pending Tasks: Image Replacements & Configuration
+
+This file lists all the locations where placeholder images or configurations need to be updated with your actual business assets.
+
+## 1. Images to Replace
+
+### Home Page
+- **File**: `components/Hero.tsx`
+  - **Location**: Line ~14 (background image)
+  - **Action**: Replace the Unsplash URL with a high-quality image of your best work.
+  - **Recommendation**: Add image to `public/hero-bg.jpg` and update code to `bg-[url('/hero-bg.jpg')]`.
+
+- **File**: `app/page.tsx`
+  - **Location**: Line ~67 (Trust Section image)
+  - **Action**: Replace the Unsplash URL with a photo of your team or a completed project.
+  - **Recommendation**: Add image to `public/trust-image.jpg` and update code.
+
+### Services Page
+- **File**: `app/services/page.tsx`
+  - **Location**: Line ~74 (Service images)
+  - **Action**: The current code uses a placeholder div. You should add actual images for each service (Design, Lawn Care, Hardscaping, Irrigation).
+  - **Recommendation**: 
+    1. Add images to `public/services/` (e.g., `design.jpg`, `lawn-care.jpg`).
+    2. Update the `services` array in the file to include an `image` property for each service.
+    3. Update the JSX to render an `<Image />` component instead of the placeholder div.
+
+### About Page
+- **File**: `app/about/page.tsx`
+  - **Location**: Line ~46 (Team Photo)
+  - **Action**: Replace the "Team Photo" placeholder div with a real photo of you and your team.
+  - **Recommendation**: Add image to `public/team.jpg` and use the Next.js `<Image />` component.
+
+### Gallery Page
+- **File**: `app/gallery/page.tsx`
+  - **Location**: Lines ~10-15 (Gallery images)
+  - **Action**: Replace the Unsplash URLs in the `images` array with paths to your own project photos.
+  - **Recommendation**: 
+    1. Create a folder `public/gallery/`.
+    2. Add your project photos there (e.g., `project1.jpg`, `project2.jpg`).
+    3. Update the `src` properties in the `images` array to point to these local files (e.g., `/gallery/project1.jpg`).
+
+### Social Media / SEO
+- **File**: `public/` folder
+  - **Action**: Add an image named `og-image.jpg`.
+  - **Specs**: 1200x630 pixels.
+  - **Purpose**: This image will appear when your website link is shared on Facebook, Twitter, LinkedIn, etc.
+
+## 2. Configuration Updates
+
+### Domain Name
+- **Files**: 
+  - `app/layout.tsx`
+  - `app/sitemap.ts`
+  - `app/robots.ts`
+- **Action**: Once you buy your domain (e.g., `duwaneslandscaping.com`), replace `https://www.duwaneslandscaping.com` with your actual domain URL in these files.
+
+### Contact Form
+- **File**: `app/contact/page.tsx`
+- **Action**: The form currently just logs to the console. You need to connect it to an email service.
+- **Recommendation**: Use a service like [Formspree](https://formspree.io/) or [EmailJS](https://www.emailjs.com/).
+  - **Formspree**: Wrap the form in their provider or change the form `action` to their endpoint.
+  - **EmailJS**: Use their SDK to send the email in the `handleSubmit` function.
+
+## How to Add Images
+1. Place your image files in the `public` folder in the root of your project.
+2. Reference them in your code starting with `/`. 
+   - Example: If you put `logo.png` in `public/`, reference it as `/logo.png`.
